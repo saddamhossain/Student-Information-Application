@@ -1,0 +1,8 @@
+G:\SADDAM HOSSAIN RANA\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe.config
+G:\SADDAM HOSSAIN RANA\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe
+G:\SADDAM HOSSAIN RANA\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.pdb
+G:\SADDAM HOSSAIN RANA\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.StudentUI.resources
+G:\SADDAM HOSSAIN RANA\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.Properties.Resources.resources
+G:\SADDAM HOSSAIN RANA\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.csproj.GenerateResource.Cache
+G:\SADDAM HOSSAIN RANA\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.exe
+G:\SADDAM HOSSAIN RANA\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.pdb
